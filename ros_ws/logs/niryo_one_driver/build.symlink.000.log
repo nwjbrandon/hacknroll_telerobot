@@ -1,0 +1,4 @@
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/niryo_one_driver/niryo_one_driver
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/pkgconfig/niryo_one_driver.pc
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/niryo_one_driver/cmake/niryo_one_driverConfig-version.cmake
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/niryo_one_driver/cmake/niryo_one_driverConfig.cmake

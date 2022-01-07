@@ -1,0 +1,4 @@
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/python3/dist-packages/ros_tcp_endpoint/__init__.py
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/pkgconfig/ros_tcp_endpoint.pc
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig-version.cmake
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig.cmake

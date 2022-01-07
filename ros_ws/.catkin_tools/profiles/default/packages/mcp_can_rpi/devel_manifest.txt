@@ -1,0 +1,6 @@
+mcp_can_rpi
+/home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/.private/mcp_can_rpi/cmake.lock /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/./cmake.lock
+/home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/.private/mcp_can_rpi/lib/libmcp_can_rpi.so /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/libmcp_can_rpi.so
+/home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/.private/mcp_can_rpi/lib/pkgconfig/mcp_can_rpi.pc /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/pkgconfig/mcp_can_rpi.pc
+/home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/.private/mcp_can_rpi/share/mcp_can_rpi/cmake/mcp_can_rpiConfig.cmake /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig.cmake
+/home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/.private/mcp_can_rpi/share/mcp_can_rpi/cmake/mcp_can_rpiConfig-version.cmake /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig-version.cmake

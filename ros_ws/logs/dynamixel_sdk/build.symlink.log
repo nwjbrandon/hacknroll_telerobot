@@ -1,0 +1,4 @@
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/libdynamixel_sdk.so
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake

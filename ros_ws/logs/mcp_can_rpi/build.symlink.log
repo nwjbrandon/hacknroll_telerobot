@@ -1,0 +1,4 @@
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/libmcp_can_rpi.so
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/lib/pkgconfig/mcp_can_rpi.pc
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig.cmake
+Symlinking /home/nwjbrandon/nus/hack_n_roll/ros_ws/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig-version.cmake
