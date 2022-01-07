@@ -1,3 +1,0 @@
-<launch>
-    <node name="controller_remote" pkg="niryo_moveit" type="controller_remote.py" args="--wait" output="screen" />
-</launch>

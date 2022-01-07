@@ -38,6 +38,10 @@ sudo apt install python3-tk
 cd ~/ros_ws
 catkin build
 ```
+- Install Python dependencies
+```
+pip3 install -r requirements.txt
+```
 
 ## Run
 - Start unity simulator
@@ -53,6 +57,11 @@ sudo bash run.sh
 roslaunch niryo_moveit controller_gui.launch # control on local machine using gui
 roslaunch niryo_moveit controller_models.launch # control on local machine using mediapipe models
 roslaunch niryo_moveit controller_remote.launch # control remotely by receiving sqs messages
+```
+- Run remotely with AWS SQS
+```
+python3 controller_gui.py
+python3 controller_models.py
 ```
 
 ## Docker
